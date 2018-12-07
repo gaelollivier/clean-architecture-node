@@ -1,0 +1,20 @@
+/src
+    /controllers
+        /user.js
+        /company.js
+        /product.js
+        /cart.js
+    /views
+        /user.js
+        /company.js
+        /product.js
+        /cart.js
+    /models
+        /user.js
+        /company.js
+        /product.js
+        /cart.js
+
+
+
+        
